@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1a1f29"/><stop offset="1" stop-color="#0f1115"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#g)"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" font-family="system-ui" font-size="44" fill="#d4af37">北京顺义·奇幻花园</text>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-family="system-ui" font-size="18" fill="#9ca3af">请在 gallery.html 核对后指派图片</text>
+</svg>
